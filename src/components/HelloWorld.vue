@@ -4,7 +4,7 @@
     <h3>Ciao</h3>
     
     
-  </div>
+  </div> 
 </template>
 
 <script>
